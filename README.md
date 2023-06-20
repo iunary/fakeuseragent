@@ -50,3 +50,6 @@ The package currently supports the following browsers:
 
 Each browser has a predefined set of fake user agent strings that you can retrieve using the provided functions.
 
+## Acknowledgements
+
+This package was inspired by the [fake-useragent](https://github.com/fake-useragent/fake-useragent).
